@@ -1,7 +1,7 @@
 ### Olá! Eu sou Lucas Dias!
 
 - Hoje estudo Desenvolvimento de Sistemas
-- Estudo com foco em Desenvolvimento web
+
 
 <div>
   <a href="https://github.com/Lucasdias79931">
