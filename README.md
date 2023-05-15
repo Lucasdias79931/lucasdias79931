@@ -1,6 +1,6 @@
 ### Olá! Eu sou Lucas Dias!
 
-- Estudante de Desenvolvimento de Sistemas
+- Estudante de Tecnologia
 
 
 <div>
