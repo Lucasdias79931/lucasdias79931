@@ -1,7 +1,7 @@
 ### Olá! Eu sou Lucas Dias!
 
 - Estudante de Tecnologia. Atualmento estudo Sistemas de Informação na Unime de Lauro de freitas
-- e tenho o foco nos estudos em desenvolvimento WEB
+
 
 
 
