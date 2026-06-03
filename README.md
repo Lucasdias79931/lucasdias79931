@@ -1,13 +1,21 @@
 ### Olá! Eu sou Lucas Dias!
 
-- Estudante de Sistemas de Informação na Universidade Estadual da Bahia.
-- G2BC - Bioinformática UNEB
+Estudante de Sistemas de Informação na Universidade Estadual da Bahia (UNEB) e integrante do grupo G2BC – Bioinformática.
 
-<div>
-  <a href="https://github.com/Lucasdias79931">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucasdias79931&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasdias79931&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+Tenho interesse em engenharia de software, sistemas distribuídos e computação de alto desempenho, com foco no desenvolvimento de soluções eficientes para processamento de dados em larga escala.
+
+Atualmente, venho trabalhando com:
+
+Python e C/C++, com foco em performance e baixo nível
+Sistemas distribuídos utilizando gRPC
+Processamento assíncrono com Celery e RabbitMQ
+Desenvolvimento de APIs (FastAPI/Flask) e aplicações web (React + TypeScript)
+Projetos voltados à bioinformática e análise de dados genômicos
+
+Busco constantemente evoluir minhas habilidades em arquitetura de sistemas, otimização de desempenho e aplicações científicas, unindo tecnologia e ciência de dados.
+
+
+
 
 <div style="display: inline_block">
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
